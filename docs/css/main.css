@@ -17,14 +17,14 @@ body {
 
 
 
-ul {
+.nav-container .horizontal-list {
   display: flex;
   list-style-type: none; 
   padding: 0px;          
   margin: 0px;           
 }
 
-.nav-item {
+.nav-container .horizontal-list .nav-item a {
   margin-right: var(--spacing-unit); 
   text-decoration: none;
 }
