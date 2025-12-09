@@ -12,7 +12,7 @@ body {
     color: var(--color-primary);
     margin: 0;
     padding: 0;
-    background-color: #270101d9;
+    background-color: #212020d9;
 }
 
 
@@ -27,5 +27,6 @@ body {
 .nav-container .horizontal-list .nav-item a {
   margin-right: var(--spacing-unit); 
   text-decoration: none;
+  color: var(--color-primary);
 }
 
